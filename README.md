@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/..." width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:ff9900&height=250&section=header&text=BUI%20XUAN%20TUNG&fontSize=70&fontAlignY=35&desc=Logistics%20Specialist%20x%20Data%20Enthusiast&descAlignY=55&descAlign=50&animation=fadeIn" width="100%" alt="Header" />
+</div>
+
 <div align="center">
   <a href="mailto:tungbx15.lsc@gmail.com">
     <img src="https://img.shields.io/badge/Email-tungbx15.lsc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
