@@ -1,150 +1,129 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Bui%20Xuan%20Tung&fontSize=70&fontAlignY=35&desc=Logistics%20Specialist%20%7C%20Data-Driven%20Trade%20Optimiser&descAlignY=60&descAlign=50&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F51B5&center=true&vCenter=true&width=700&lines=FTU+Senior+Student+(International+Economics);HSK+5+Certified+%7C+Fluent+in+Mandarin+🇨🇳;Ex-Commercial+Executive+@+VLIGHT+Vietnam;Automating+Logistics+Workflows+with+Python+🐍" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="mailto:tungbx15.lsc@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="LINK_LINKEDIN_CUA_BAN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/tung.926147"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <img src="https://images.unsplash.com/photo-1516035069371-29a1b244cc32?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=350&q=80" width="100%" style="border-radius: 10px; object-fit: cover; opacity: 0.9;" alt="Header Art" />
+  <h1 style="font-size: 3em; margin-bottom: -10px;">Bùi Xuân Tùng</h1>
+  <p><b>The Visual Logistics Specialist 📦 | Lightroom Artist 📸</b></p>
 </div>
 
 <br/>
 
-<h2 align="center">👨‍💼 Professional Summary</h2>
-<div align="center">
-  <p><em>"Kết hợp tư duy thương mại quốc tế với kỹ năng phân tích dữ liệu để tối ưu hóa chuỗi cung ứng."</em></p>
-</div>
+### 🎞️ Góc nhìn của Tùng (My Perspective)
+
+Chào bạn, mình là sinh viên năm cuối **FTU**.
+Mình đam mê **Nhiếp ảnh** và theo đuổi ngành **Logistics**. Hai thứ tưởng chừng không liên quan, nhưng với mình, chúng có chung một triết lý:
+
+> *"Dữ liệu Logistics cũng giống như một file ảnh RAW. Nếu không có **Hậu kỳ (Post-processing)**, nó chỉ là những con số vô hồn."*
+
+* 🎨 Trong **Lightroom**, mình dùng *Color Grading* để bức ảnh có hồn.
+* 🐍 Trong **Logistics**, mình dùng *Python* để dữ liệu biết nói.
+
+---
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://cdn-icons-png.flaticon.com/512/3094/3094919.png" width="50px"/><br/>
-        <b>Global Trade</b><br/>
-        <font size="2">Incoterms 2020<br/>Import-Export Docs</font>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="50px"/><br/>
-        <b>Data Analysis</b><br/>
-        <font size="2">Python (Pandas)<br/>Excel (VBA/Pivot)</font>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://cdn-icons-png.flaticon.com/512/484/484633.png" width="50px"/><br/>
-        <b>Languages</b><br/>
-        <font size="2">Chinese (HSK 5)<br/>English (Fluent)</font>
-      </td>
-    </tr>
-  </table>
+  <h3>⚡ Quy trình xử lý (The Processing Pipeline)</h3>
+  <br>
+  <span style="font-size: 16px; font-family: sans-serif; color: #444;">
+    📥 <b>Capture (Input)</b> 
+      ➡️   
+    ⚙️ <b>Processing (Lightroom/Python)</b> 
+      ➡️   
+    💎 <b>Export (Final Value)</b>
+  </span>
+  <br/><br/>
 </div>
 
 <br/>
 
-<h2 align="center">💼 Work Experience</h2>
-<details>
-  <summary><strong>🏢 COMMERCIAL EXECUTIVE | CÔNG TY TNHH VLIGHT VIỆT NAM (5/2023 - Nay)</strong></summary>
-  <br/>
-  <ul>
-    <li>🏆 <strong>Thành tích:</strong> Top 4 nhân viên doanh thu xuất sắc tháng 10/2024.</li>
-    <li>📝 <strong>Hợp đồng & Pháp lý:</strong> Soạn thảo, rà soát các điều khoản hợp đồng thương mại, đảm bảo tính pháp lý.</li>
-    <li>🤝 <strong>Điều phối dự án:</strong> Làm việc xuyên phòng ban (Cross-functional) để xử lý các vấn đề phát sinh trong quy trình dịch vụ.</li>
-    <li>📊 <strong>Quản trị dữ liệu:</strong> Quản lý hệ thống CRM, dữ liệu khách hàng và thực hiện báo cáo doanh thu định kỳ.</li>
-  </ul>
-</details>
+### 📽️ Những "Album" đã thực hiện (Projects)
 
-<details>
-  <summary><strong>☕ CUSTOMER SERVICE & SALES | TRUNG COFFEE HÀ NỘI (2024 - 2025)</strong></summary>
-  <br/>
-  <ul>
-    <li>🗣️ <strong>Giao tiếp đa văn hóa:</strong> Xử lý đơn hàng và CSKH hoàn toàn bằng Tiếng Anh với khách du lịch quốc tế.</li>
-    <li>🔥 <strong>Sales B2C:</strong> Tư vấn trực tiếp, giới thiệu sản phẩm cà phê Việt Nam, đóng góp vào doanh thu cửa hàng.</li>
-    <li>⚡ <strong>Giải quyết vấn đề:</strong> Xử lý linh hoạt các khiếu nại phát sinh, đảm bảo sự hài lòng của khách hàng.</li>
-  </ul>
-</details>
+<table>
+  <tr>
+    <td width="35%">
+      <img src="https://images.unsplash.com/photo-1555421689-491a97ff2040?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" width="100%" style="border-radius:5px" />
+    </td>
+    <td>
+      <b>📦 Logistics Cost Analyzer</b>
+      <br/><br/>
+      <i>Vấn đề:</i> File báo giá từ Forwarder lộn xộn giống như một bức ảnh bị sai cân bằng trắng (White Balance).<br/>
+      <i>Giải pháp:</i> Tool Python này hoạt động như một "Preset" tự động, chuẩn hóa mọi bảng giá về một định dạng chuẩn trong 30 giây.<br/>
+      <i>Công cụ:</i> Python, Pandas.<br/>
+      <br/>
+      <a href="https://github.com/imTuung20104/Logistics-Cost-Analyzer">
+        <img src="https://img.shields.io/badge/View_Source_Code-212121?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<h2 align="center">🛠️ Tech & Logistics Arsenal</h2>
+<table>
+  <tr>
+    <td width="35%">
+      <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" width="100%" style="border-radius:5px" />
+    </td>
+    <td>
+      <b>🇨🇳 China-Vietnam Trade Storyboard</b>
+      <br/><br/>
+      <i>Vấn đề:</i> Sếp cần nhìn thấy xu hướng thị trường, không phải những con số rời rạc.<br/>
+      <i>Giải pháp:</i> Dashboard này giống như một bức ảnh HDR, làm nổi bật những chi tiết quan trọng nhất (Highlighs) của thị trường XNK.<br/>
+      <i>Công cụ:</i> Streamlit, Plotly.<br/>
+      <br/>
+      <a href="https://github.com/imTuung20104/China-Vietnam-Trade-Report">
+        <img src="https://img.shields.io/badge/View_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🧰 Túi đồ nghề (My Gear)
+
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,git,github,excel,md,gmail,linkedin&perline=8&theme=light" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,vscode,excel,github&perline=4&theme=light" alt="Tech Skills" />
   </a>
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Adobe_Lightroom-Classic-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" alt="Lightroom" />
+  <img src="https://img.shields.io/badge/Mandarin-HSK_5-DE2910?style=for-the-badge&logo=china&logoColor=white" alt="Chinese" />
+  <img src="https://img.shields.io/badge/Incoterms-2020-0056D2?style=for-the-badge&logo=world&logoColor=white" alt="Logistics" />
 </div>
 
 <br/>
 
-<h2 align="center">🚀 Featured Projects</h2>
+### 🎧 Edit Mode: On (Sở thích)
 
-<div align="center">
-<h3>📦 Logistics Cost Analyzer</h3>
-<p><em>Công cụ Python tối ưu hóa việc tính toán giá cước vận chuyển đa phương thức.</em></p>
-</div>
+Khi không phải xử lý vận đơn, mình dành thời gian đi săn ảnh phố phường Hà Nội và chỉnh màu trên nền nhạc Indie.
+
 <table align="center">
   <tr>
-    <td width="40%">
-      <img src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" width="100%" style="border-radius:10px" />
+    <td width="50%" align="center">
+      <h4>📸 My Photography</h4>
+      <img src="https://images.unsplash.com/photo-1493863641943-9b68992a8d07?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&h=180&q=80" style="border-radius: 10px; margin-bottom: 5px;" />
+      <br/>
+      <img src="https://img.shields.io/badge/Camera-Sony_Alpha-black?style=flat-square&logo=sony&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Edit_with-Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white"/>
     </td>
-    <td width="60%">
-      <ul>
-        <li><strong>Vấn đề:</strong> Tính toán thủ công giá cước từ nhiều Forwarder tốn 2h/ngày và dễ sai sót.</li>
-        <li><strong>Giải pháp:</strong> Script Python tự động map dữ liệu từ Excel, so sánh giá và xuất báo cáo.</li>
-        <li><strong>Công nghệ:</strong> Python, Pandas, OpenPyXL.</li>
-        <li><strong>Kết quả:</strong> Giảm <strong>50%</strong> thời gian làm báo cáo, độ chính xác 100%.</li>
-      </ul>
-      <div align="center">
-        <a href="https://github.com/imTuung20104/Logistics-Cost-Analyzer">
-          <img src="https://img.shields.io/badge/View_Source_Code-FF9900?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-      </div>
+    
+    <td width="50%" align="center">
+      <h4>🎵 Vibe lúc làm việc</h4>
+      <a href="https://spotify-github-profile.vercel.app/api/view?uid=imTuung20104&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=dummy_user&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify" width="100%"/>
+      </a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<div align="center">
-<h3>🇨🇳 China-Vietnam Trade Dashboard</h3>
-<p><em>Hệ thống theo dõi kim ngạch xuất nhập khẩu thời gian thực.</em></p>
-</div>
-<table align="center">
-  <tr>
-    <td width="40%">
-      <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" width="100%" style="border-radius:10px" />
-    </td>
-    <td width="60%">
-      <ul>
-        <li><strong>Vấn đề:</strong> Dữ liệu XNK nằm rải rác, khó theo dõi xu hướng thị trường Trung Quốc.</li>
-        <li><strong>Giải pháp:</strong> Dashboard trực quan hóa dữ liệu thương mại song phương.</li>
-        <li><strong>Công nghệ:</strong> Streamlit, Pandas, Plotly.</li>
-        <li><strong>Tiềm năng:</strong> Hỗ trợ ra quyết định nhập hàng (Purchasing Decision).</li>
-      </ul>
-      <div align="center">
-        <a href="https://github.com/imTuung20104/China-Vietnam-Trade-Report">
-          <img src="https://img.shields.io/badge/View_Dashboard-DE2910?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h2 align="center">🎓 Education & Certificates</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Foreign_Trade_University-GPA_3.2%2B-red?style=flat-square&logo=google-scholar&logoColor=white">
-  <img src="https://img.shields.io/badge/HSK_5-Certified-DE2910?style=flat-square&logo=china&logoColor=white">
-  <img src="https://img.shields.io/badge/MS_Office-Specialist-blue?style=flat-square&logo=microsoft&logoColor=white">
-</div>
-
-<br/>
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=imTuung20104&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="watchers" />
+  <p><i>"Focus on the details, and the big picture will take care of itself."</i></p>
+  
+  <a href="mailto:tungbx15.lsc@gmail.com"><img src="https://img.shields.io/badge/Email-Liên_hệ-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="LINK_LINKEDIN_CUA_BAN"><img src="https://img.shields.io/badge/LinkedIn-Kết_nối-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&section=footer&width=100%" />
+  <img src="https://komarev.com/ghpvc/?username=imTuung20104&label=Visitors&color=blueviolet&style=flat" alt="Views" />
 </div>
